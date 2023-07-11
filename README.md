@@ -11,3 +11,4 @@ The repo contains related learnings.
 - External tools, data, and orchestration frameworks play a critical role.
 - While there is significant progress to make it easier and more accessible, the bar is still high in terms of ML expertise ML and the necessary hardware is still not broadly accessible. Broader ML adoption requires more easy-to-use tools as well as accessible hardware.
 
+The blog post [Thoughts from a Generative AI Course](https://medium.com/misc-posts/thoughts-from-a-generative-ai-course-312209bc24c) has additional thoughts.
